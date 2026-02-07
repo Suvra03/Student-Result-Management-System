@@ -1,19 +1,17 @@
 <!doctype html>
 <html lang="en">
-
-<head>
-  <title>Resources</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link href="css/bootstrap.navabar.css" rel="stylesheet">
-  <link href="css/font.css" rel="stylesheet">
-  <link rel="icon" href="logos/lcb_college_logo_2.png" type="image/x-icon">
-</head>
-
-<body>
+  <head>
+    <title>Resources</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="css/bootstrap.navabar.css" rel="stylesheet">
+    <link href="css/font.css" rel="stylesheet">
+    <link rel = "icon" href =  "logos/lcb_college_logo_2.png" type = "image/x-icon"> 
+  </head>
+  <body>
 
   <!-- ---- Navbar starts from here ---- -->
-  <header class="container-fluid" style="background-color: rgb(10, 37, 95); color: #fff;">
+    <header class="container-fluid" style="background-color: rgb(10, 37, 95); color: #fff;">
         <div class="row custom-container">
             <div class="col" style="padding:20px; padding-left: 50px; width: 50px;">
                 <img src="logos/lcb_college_logo_2.png" alt="Logo" class="img-fluid" height="100px" width="100px">

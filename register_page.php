@@ -1,6 +1,6 @@
-<?php
-include 'logic/register_functions.php'
-    ?>
+<?php 
+    include 'logic/register_functions.php'
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -27,7 +27,7 @@ include 'logic/register_functions.php'
 </head>
 
 <body>
-    <?php
+    <?php 
     include 'includes/header.php';
     ?>
     <!-- ---- Navbar starts from here ---- -->
